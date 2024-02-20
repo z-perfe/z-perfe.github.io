@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>犹记 - 分类 - Perfe</title>
+        <link>http://www.perfe.me/categories/%E7%8A%B9%E8%AE%B0/</link>
+        <description>犹记 - 分类 - Perfe</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 19 Feb 2024 16:19:36 &#43;0800</lastBuildDate><atom:link href="http://www.perfe.me/categories/%E7%8A%B9%E8%AE%B0/" rel="self" type="application/rss+xml" /><item>
+    <title>敌人</title>
+    <link>http://www.perfe.me/posts/di-ren/</link>
+    <pubDate>Mon, 19 Feb 2024 16:19:36 &#43;0800</pubDate><author>
+                        <name>Perfe</name><uri>https://www.perfe.me</uri><email>perfe.zh@gmail.com</email></author><guid>http://www.perfe.me/posts/di-ren/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/di-ren/image.jpg" referrerpolicy="no-referrer">
+            </div>一个青衣雪剑,一个皓齿红唇,刚不顾一切拥吻,转眼成敌人]]></description>
+</item></channel>
+</rss>
